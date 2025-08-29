@@ -1,0 +1,5 @@
+{
+  "name": "EchoVerse – An AI-Powered Audiobook Creation Tool",
+  "description": "An AI-powered tool to transform text into engaging audiobooks. Rewrite text in various tones, synthesize it with different voices across multiple languages, and listen to or download the result.",
+  "requestFramePermissions": []
+}
